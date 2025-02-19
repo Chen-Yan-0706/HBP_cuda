@@ -16,9 +16,11 @@ The matrix data used for testing is placed in databases, and in this example, AS
 ### compilation
 
 'nvcc -o csr_spmv ./csr_spmv.cu'
+
 'nvcc -o HBP_spmv_cuda ./HBP_spmv_cuda.cu'
 
 ### run
 
 './csr_spmv'
+
 './HBP_spmv_cuda'
