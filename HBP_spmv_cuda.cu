@@ -12,7 +12,7 @@
 #define BLOCK_COL_N 4096
 #define HBP_M 512
 #define HBP_N 4096
-#define PARALLEL 8196
+#define PARALLEL 8192
 #define OMEGA 32
 #define BUFFER_SIZE 1024
 #define SUB_N 10
