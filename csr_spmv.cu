@@ -7,7 +7,7 @@
 #include "math.h"
 #include <cuda_runtime.h>
 #include <iostream>
-#define PARALLEL 8196
+#define PARALLEL 8192
 #define OMEGA 32
 
 # define EPSILON 1
